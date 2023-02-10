@@ -19,8 +19,8 @@ The app has multiple implementations which are designed for industry-specific us
 Setting up the reference app is easy, just follow these steps:  
 1. Clone the repo:
     ```
-    $ git clone git@github.com:affinidi/reference-app-health.git
-    $ cd reference-app-health
+    $ git clone git@github.com:affinidi/reference-app-ticketing.git
+    $ cd reference-app-ticketing
     ```
 2. Install the dependencies:
     ```
